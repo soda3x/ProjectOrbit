@@ -1,0 +1,14 @@
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\bin\Debug\netstandard2.0\ProjectOrbit.deps.json
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\bin\Debug\netstandard2.0\ProjectOrbit.dll
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\bin\Debug\netstandard2.0\ref\ProjectOrbit.dll
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\bin\Debug\netstandard2.0\ProjectOrbit.pdb
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\obj\Debug\netstandard2.0\ProjectOrbit.csprojAssemblyReference.cache
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\obj\Debug\netstandard2.0\ProjectOrbit.csproj.CoreCompileInputs.cache
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\obj\Debug\netstandard2.0\ProjectOrbit.AssemblyInfoInputs.cache
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\obj\Debug\netstandard2.0\ProjectOrbit.AssemblyInfo.cs
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\obj\Debug\netstandard2.0\ProjectOrbit.dll
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\obj\Debug\netstandard2.0\ref\ProjectOrbit.dll
+C:\Users\bnewm\Documents\GitHub\ProjectOrbit\ProjectOrbit\ProjectOrbit\obj\Debug\netstandard2.0\ProjectOrbit.pdb
